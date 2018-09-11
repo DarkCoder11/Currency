@@ -1,3 +1,19 @@
+this is Currency application where you can see all currencies and add your favorite one and your favorites. favorites always rendering first get folder 
+"CurrencyConvertor-master" Make sure that port 3000 is not in use. 
+Install node.js any stable version higher then 8.0 and any stable npm version. 
+Run npm install command. 
+Run node . command. 
+Open localhost:3000 in browser.
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
